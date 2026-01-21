@@ -96,10 +96,6 @@ For a full guide, see [CUSTOMIZATION.md](CUSTOMIZATION.md) (create if needed).
 - **GitHub Pages**: Use `gh-pages` branch.
 - **Self-Host**: Serve `dist/` via Apache/Nginx.
 
-<div align="center">
-  <img src="https://i.imgur.com/placeholder-deploy.gif" alt="Deploy GIF" width="60%" />
-</div>
-
 ## 📚 Tech Stack
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
